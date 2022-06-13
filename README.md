@@ -2,7 +2,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://https://team-page-challenge-lime.vercel.app/">
+    <a href="https://team-page-challenge-lime.vercel.app/">
       Demo
     </a>
   </h3>
